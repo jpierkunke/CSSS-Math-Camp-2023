@@ -5,10 +5,10 @@ layout: default
 
 ## Welcome to Math Camp!
 
-Historically, Math Camp has been a 5-day review course covering algebra, matrix algebra, calculus, and probability. This year, lectures will be uploaded before the week of Math Camp. Lectures are intended to be watched outside of synchronous class time. During our synchronous Zoom meetings, we will discuss topics from lectures, address questions, and work through examples together and in small groups. The programming language R will be introduced in synchronous afternoon labs, where we will work through examples together over Zoom (no preparation is necessary for lab). 
+Since 2014, Math Camp has provided a 5-day review course covering algebra, matrix algebra, calculus, and probability. This year's math camp will be offered in a hybrid format.
 
-  **Instructor:** Peter Gao, Graduate Student, Dept. of Statistics  
-  **TA:** Jessica Kunke, Graduate Student, Dept. of Statistics    
+  **Instructor:** Jess Kunke, PhD Student, Department of Statistics
+  **TA:** Erin Lipman, PhD Student, Department of Statistics
 
 ## Schedule
 
