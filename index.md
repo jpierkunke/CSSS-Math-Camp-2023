@@ -11,7 +11,8 @@ Offered each September since 2014, the [Center for Statistics and the Social Sci
   
   **TA:** Erin Lipman, PhD Student, Department of Statistics
 
-**Intended audience**
+**Intended audience:**
+
 Math camp is open to any entering or current UW graduate students and is particularly suitable for
 * Social science graduate students interested in pursuing a quantitatively-oriented research career
 * Social science graduate students in the early years of study in departments with CSSS tracks
@@ -38,35 +39,35 @@ Math camp will be offered in a hybrid form this year; participants may participa
   
 Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess Kunke has contributed to developing the labs since 2021.
 
-## Monday, September 12
+### Monday, September 12
 
 **Lecture**
 
 **Lab**
 
 
-## Tuesday, September 13
+### Tuesday, September 13
 
 **Lecture**
 
 **Lab**
 
 
-## Wednesday, September 14
+### Wednesday, September 14
 
 **Lecture**
 
 **Lab**
 
 
-## Thursday, September 15
+### Thursday, September 15
 
 **Lecture**
 
 **Lab**
  
  
-## Friday, September 16
+### Friday, September 16
 
 **Lecture**
 
