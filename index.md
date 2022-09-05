@@ -31,7 +31,7 @@ algebra are helpful but can be reviewed. Part of the purpose of this workshop is
 
 Math camp will be offered in a hybrid form this year; participants may participate in person or via Zoom. Our **tentative** workshop schedule is as follows:
 
-  **9am-12pm**  Lecture with practice problems
+  **9am-12pm**  Review math concepts, do practice problems
   
   **1-3pm** Lab: Introduction to programming and statistics in R
   
@@ -41,35 +41,35 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 ### Monday, September 12
 
-**Lecture**
+**Concepts**
 
 **Lab**
 
 
 ### Tuesday, September 13
 
-**Lecture**
+**Concepts**
 
 **Lab**
 
 
 ### Wednesday, September 14
 
-**Lecture**
+**Concepts**
 
 **Lab**
 
 
 ### Thursday, September 15
 
-**Lecture**
+**Concepts**
 
 **Lab**
  
  
 ### Friday, September 16
 
-**Lecture**
+**Concepts**
 
 **Lab**
 
