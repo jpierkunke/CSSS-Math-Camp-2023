@@ -5,11 +5,11 @@ layout: default
 
 ## Welcome to Math Camp!
 
-Offered each September since 2014, the [Center for Statistics and the Social Sciences (CSSS)](https://csss.uw.edu/){:target="_blank"} has provided [this math camp](https://csss.uw.edu/academics/math-camp){:target="_blank"} as a one-week review of mathematics and probability.
+Offered at the University of Washington each September since 2014, the [Center for Statistics and the Social Sciences (CSSS)](https://csss.uw.edu/){:target="_blank"} has provided [this math camp](https://csss.uw.edu/academics/math-camp){:target="_blank"} as a one-week review of mathematics and probability.
 
-  **Instructor:** Jess Kunke, PhD Student, Department of Statistics
+  **Instructor:** Jess Kunke, PhD Student in Statistics
   
-  **TA:** Erin Lipman, PhD Student, Department of Statistics
+  **TA:** Erin Lipman, PhD Student in Statistics
 
 **Intended audience:**
 
