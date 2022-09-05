@@ -28,34 +28,46 @@ algebra are helpful but can be reviewed. Part of the purpose of this workshop is
 
 ## Schedule
 
-Our tentative workshop schedule is as follows:  
+Math camp will be offered in a hybrid form this year; participants may participate in person or via Zoom. Our **tentative** workshop schedule is as follows:
 
-  **10:00am-10:45am**  Review lectures and practice problems (First day, introduction)  
-  **10:45am-11:30am**  Breakout Rooms: Practice problems  
-  **1:30pm-3:00pm**    R labs  
-  **3:00pm-4:00pm**    Additional problem session/office hours (if needed)  
-
-Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and Peter Gao. Jess Kunke has added to and developed the lab materials in particular.
+  **9am-12pm**  Alternating between lecture, short practice problems, and longer practice sessions
+  **1-3pm** Lab: Introduction to programming and statistics in R
+  **3-4pm** Office hour if needed
+  
+Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess Kunke has contributed to developing the labs since 2021.
 
 ## Monday, September 12
+
 **Lecture**
+
 **Lab**
+
 
 ## Tuesday, September 13
+
 **Lecture**
+
 **Lab**
- 
+
+
 ## Wednesday, September 14
+
 **Lecture**
+
 **Lab**
+
 
 ## Thursday, September 15
-**Lecture**
-**Lab**
 
+**Lecture**
+
+**Lab**
+ 
  
 ## Friday, September 16
+
 **Lecture**
+
 **Lab**
 
 
