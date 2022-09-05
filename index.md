@@ -5,7 +5,7 @@ layout: default
 
 ## Welcome to Math Camp!
 
-Offered each September since 2014, the Center for Statistics and the Social Sciences (CSSS) has provided [this math camp](https://csss.uw.edu/academics/math-camp) as a one-week review of mathematics and probability.
+Offered each September since 2014, the [Center for Statistics and the Social Sciences (CSSS)](https://csss.uw.edu/){:target="_blank"} has provided [this math camp](https://csss.uw.edu/academics/math-camp){:target="_blank"} as a one-week review of mathematics and probability.
 
   **Instructor:** Jess Kunke, PhD Student, Department of Statistics
   
@@ -35,7 +35,7 @@ Our tentative workshop schedule is as follows:
   **1:30pm-3:00pm**    R labs  
   **3:00pm-4:00pm**    Additional problem session/office hours (if needed)  
 
-Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp) and Peter Gao. Jess Kunke has added to and developed the lab materials in particular.
+Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and Peter Gao. Jess Kunke has added to and developed the lab materials in particular.
 
 ## Monday, September 12
 **Lecture**
