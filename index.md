@@ -31,11 +31,11 @@ algebra are helpful but can be reviewed. Part of the purpose of this workshop is
 
 Math camp will be offered in a hybrid form this year; participants may participate in person or via Zoom. Our **tentative** workshop schedule is as follows:
 
-  **9am-12pm**  Review math concepts, do practice problems
+  **9am-12pm, [SAV 260](https://www.washington.edu/maps/#!/sav)**  Review math concepts, do practice problems
   
-  **1-3pm** Lab: Introduction to programming and statistics in R
+  **1-3pm, [CSSCR Big Lab (SAV 117)](https://www.washington.edu/maps/#!/sav)** Introduction to programming and statistics in R
   
-  **3-4pm** Office hour if needed
+  **3-4pm, [CSSCR Big Lab (SAV 117)](https://www.washington.edu/maps/#!/sav)** Office hour if needed
   
 Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess Kunke has contributed to developing the labs since 2021.
 
@@ -43,34 +43,62 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 **Concepts**
 
+- Algebra, functions, limits
+
 **Lab**
+
+- Intro to R Studio interface
+- Using R as calculator
+- Assigning values to variables
 
 
 ### Tuesday, September 13
 
 **Concepts**
 
+- Matrices
+- Intro to probability (sets, basic rules, conditional probability)
+
 **Lab**
+
+- Reading in data
+- Intro to data manipulation
+- Working with matrices
 
 
 ### Wednesday, September 14
 
 **Concepts**
 
+- Derivatives
+- Random variables (bernoulli, binomial, uniform, normal; expectation, variance)
+
 **Lab**
+
+- Generating random numbers
+- Optimization with optim
 
 
 ### Thursday, September 15
 
 **Concepts**
 
+- Integrals
+- Probability distributions (pmfs/pdfs)
+
 **Lab**
+
+- Numerical approximation to integrals
+- Evaluating probability distributions
+- Monte Carlo integration
  
  
 ### Friday, September 16
 
 **Concepts**
 
+- Flex time to go over anything that was confusing/could use more practice
+
 **Lab**
 
-
+- More plotting in R!
