@@ -89,8 +89,8 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Lab**
 
 - Numerical approximation to integrals
-- Evaluating probability distributions
 - Monte Carlo integration
+- Evaluating probability distributions
  
  
 ### Friday, September 16
