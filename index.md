@@ -43,7 +43,10 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 **Concepts**
 
-- Algebra, functions, limits
+- Algebra
+- Functions
+- Linear equations and systems of equations
+- Limits
 
 **Lab**
 
@@ -57,7 +60,6 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Concepts**
 
 - Matrices
-- Intro to probability (sets, basic rules, conditional probability)
 
 **Lab**
 
@@ -71,34 +73,38 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Concepts**
 
 - Derivatives
-- Random variables (bernoulli, binomial, uniform, normal; expectation, variance)
+- Optimization (finding minima/maxima)
 
 **Lab**
 
-- Generating random numbers
 - Optimization with optim
+- More plotting in R!
+- R Markdown
 
 
 ### Thursday, September 15
 
 **Concepts**
 
-- Integrals
+- Intro to probability (sets, basic rules, conditional probability)
+- Random variables (bernoulli, binomial, uniform, normal; expectation, variance)
 - Probability distributions (pmfs/pdfs)
 
 **Lab**
 
-- Numerical approximation to integrals
-- Monte Carlo integration
+- Generating random numbers, sampling from distributions
 - Evaluating probability distributions
+- Least squares and linear regression in R
  
  
 ### Friday, September 16
 
 **Concepts**
 
+- Integrals
 - Flex time to go over anything that was confusing/could use more practice
 
 **Lab**
 
-- More plotting in R!
+- Numerical approximation to integrals
+- Monte Carlo integration
