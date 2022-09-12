@@ -56,7 +56,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 - Using R as calculator
 - Assigning values to variables
 
-[Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/Labs/RLab1.html)
+[Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/blob/main/Labs/Rlab1.html)
 
 
 ### Tuesday, September 13
