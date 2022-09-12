@@ -47,7 +47,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 - Linear equations and systems of equations
 - Functions and limits
 
-[Day 1 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture1.pdf)
+[Day 1 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture1.pdf) (click link to download)
 
 **Lab**
 
@@ -55,7 +55,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 - Using R as calculator
 - Assigning values to variables
 
-[Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/Rlab1.html.zip)
+[Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/Rlab1.html.zip) (click link to download zip)
 
 
 ### Tuesday, September 13
