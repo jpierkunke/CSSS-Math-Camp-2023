@@ -44,11 +44,10 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Concepts**
 
 - Algebra
-- Functions
 - Linear equations and systems of equations
-- Limits
+- Functions and limits
 
-[Day 1 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/Lecture/Lecture1.pdf)
+[Day 1 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/blob/main/Lecture/Lecture1.pdf)
 
 **Lab**
 
