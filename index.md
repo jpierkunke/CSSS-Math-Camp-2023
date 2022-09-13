@@ -64,6 +64,8 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 - Matrices
 
+[Day 2 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture2_Matrices.pdf) (click link to download)
+
 **Lab**
 
 - Reading in data
