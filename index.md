@@ -73,6 +73,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 - Working with matrices
 
 [Day 2 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab2-2022.html.zip) (click link to download zip)
+[Day 2 lab R script](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab2-2022.R) (click link to download)
 
 ### Wednesday, September 14
 
