@@ -72,8 +72,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 - Intro to data manipulation
 - Working with matrices
 
-[Day 2 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/Rlab2-2022.html.zip) (click link to download zip)
-
+[Day 2 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab2-2022.html.zip) (click link to download zip)
 
 ### Wednesday, September 14
 
