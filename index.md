@@ -81,19 +81,22 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 - Derivatives
 - Optimization (finding minima/maxima)
+- Intro to probability (sets, basic rules, conditional probability)
+
+[Day 3 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture2_Matrices.pdf) (click link to download)
 
 **Lab**
 
-- Optimization with optim
+- Data manipulation with tidyverse
 - More plotting in R!
 - R Markdown
 
+[Day 3 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab3_materials.zip) (click link to download zip)
 
 ### Thursday, September 15
 
 **Concepts**
 
-- Intro to probability (sets, basic rules, conditional probability)
 - Random variables (bernoulli, binomial, uniform, normal; expectation, variance)
 - Probability distributions (pmfs/pdfs)
 
