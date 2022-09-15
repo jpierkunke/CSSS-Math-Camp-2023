@@ -81,9 +81,8 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 - Derivatives
 - Optimization (finding minima/maxima)
-- Intro to probability (sets, basic rules, conditional probability)
 
-[Day 3 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture3_slides.zip) (click link to download zip)
+[Day 3 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture3_Part1_Derivatives.pdf) (click link to download)
 
 **Lab**
 
@@ -97,16 +96,20 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 **Concepts**
 
+- Intro to probability (sets, basic rules, conditional probability)
 - Random variables (bernoulli, binomial, uniform, normal; expectation, variance)
 - Probability distributions (pmfs/pdfs)
 
+[Day 4 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture4_IntroToProbability.pdf) (click link to download)
+
+[Paper on relative risk vs odds ratio](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/relative-risk-odds-ratio-paper.pdf) (click link to download)
+
 **Lab**
 
-- Generating random numbers, sampling from distributions
-- Evaluating probability distributions
-- Least squares and linear regression in R
- 
- 
+- Practice with data and tidyverse!
+
+[Day 4 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab4_materials.zip) (click link to download zip)
+
 ### Friday, September 16
 
 **Concepts**
