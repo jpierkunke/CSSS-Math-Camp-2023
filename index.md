@@ -115,11 +115,15 @@ Slides and materials will be linked to in the schedule below as they are made av
 **Concepts**
 
 - Integrals
+- Numerical approximation to integrals
+- Monte Carlo integration
 - Flex time to go over anything that was confusing/could use more practice
 
 [Day 5 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture5_Integrals.pdf) (click link to download)
 
 **Lab**
 
-- Numerical approximation to integrals
-- Monte Carlo integration
+- The birthday problem
+- Simulating from a distribution
+
+[Day 5 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab5_materials.zip) (click link to download zip)
