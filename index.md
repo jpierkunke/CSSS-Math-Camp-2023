@@ -110,6 +110,8 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 [Day 4 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab4_materials.zip) (click link to download zip)
 
+[Day 4 lab solutions](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab4_solutions.zip) (click link to download zip)
+
 ### Friday, September 16
 
 **Concepts**
