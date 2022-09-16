@@ -117,6 +117,8 @@ Slides and materials will be linked to in the schedule below as they are made av
 - Integrals
 - Flex time to go over anything that was confusing/could use more practice
 
+[Day 4 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture5_Integrals.pdf) (click link to download)
+
 **Lab**
 
 - Numerical approximation to integrals
