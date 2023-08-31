@@ -1,4 +1,4 @@
-# CSSS-Math-Camp-2022
-This is the github repo for the UW CSSS Math Camp September 2022 course website:
+# CSSS-Math-Camp-2023
+This is the github repo for the UW CSSS Math Camp September 2023 course website:
 
-https://jpierkunke.github.io/CSSS-Math-Camp-2022/
+https://jpierkunke.github.io/CSSS-Math-Camp-2023/
