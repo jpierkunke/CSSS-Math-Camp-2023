@@ -28,13 +28,13 @@ This workshop **does not** assume prior exposure to this material; math skills t
 
 Math camp will be offered in a hybrid form this year; participants may participate in person or via Zoom. Our **tentative** workshop schedule is as follows; please check here for updates. We have reserved both PAR 320 and PAR 360 9-4pm each day.
 
-  **9am-12pm, [The Commons, PAR 320](https://www.washington.edu/maps/#!/sav):**  Review math concepts, do practice problems
+  **9am-12pm, The Commons (PAR 320):**  Review math concepts, do practice problems
   
-  **12-1pm, [The Commons, PAR 320](https://www.washington.edu/maps/#!/sav):** Lunch/break
+  **12-1pm, The Commons (PAR 320):** Lunch/break
   
-  **1-2pm, [The Commons, PAR 320](https://www.washington.edu/maps/#!/sav):** Office hour/extra practice
+  **1-2pm, The Commons (PAR 320):** Office hour/extra practice
   
-  **2-4pm, [Denny Forum, PAR 360](https://www.washington.edu/maps/#!/sav):** Introduction to R programming language
+  **2-4pm, Denny Forum (PAR 360):** Introduction to R programming language
   
 Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess and Erin have also contributed to designing the labs.
 
