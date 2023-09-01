@@ -38,6 +38,7 @@ Math camp will be offered in a hybrid form this year; participants may participa
   
 Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess and Erin have also contributed to designing the labs.
 
+<!--- this looks fine in preview but not on the rendered website
 | **Day** | **Math Concepts**  | **R Lab Content** |
 | ------------- | ------------- | ------------- |
 | Mon 9/11 | <ul><li> Algebra </li> <li>Linear equations and systems of equations </li> <li> Functions and limits </li></ul> | <ul><li> Intro to R Studio interface </li> <li> Basic operations and variables in R </li> <li> Reading in and exploring data </li></ul> |
@@ -45,6 +46,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 | Wed 9/13 | <ul><li> Derivatives </li> <li> Optimization (finding minima/maxima)  </li></ul> |  <ul><li> Data manipulation and visualization with tidyverse, continued </li></ul> |
 | Thurs 9/14 | <ul><li> Intro to probability (sets, basic rules, conditional probability) </li> <li> Random variables (bernoulli, binomial, uniform, normal; expectation, variance) </li> <li> Probability distributions (pmfs/pdfs)) </li></ul> | <ul><li> Probability and sampling </li></ul> |
 | Fri 9/15 | <ul><li> Integrals </li> <li> Numerical approximation to integrals </li> <li> Monte Carlo integration </li> <li> Flex time to go over anything that was confusing/could use more practice </li></ul> |  <ul><li> Data Extensions and TBD </li></ul> |
+--->
 
 <!---
 ### Monday, September 11
@@ -140,37 +142,88 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 --->
 
+
 <table>
   <tbody>
     <tr>
-      <th>Tables</th>
-      <th align="center">Are</th>
-      <th align="right">Cool</th>
+      <th>Day</th>
+      <th>Math Concepts</th>
+      <th>R Lab Concent</th>
     </tr>
     <tr>
-      <td>col 3 is</td>
-      <td align="center">right-aligned</td>
-      <td align="right">$1600</td>
-    </tr>
-    <tr>
-      <td>col 2 is</td>
-      <td align="center">centered</td>
-      <td align="right">$12</td>
-    </tr>
-    <tr>
-      <td>zebra stripes</td>
-      <td align="center">are neat</td>
-      <td align="right">$1</td>
-    </tr>
-    <tr>
+      <td>Mon 9/11</td>
       <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li>Algebra</li>
+          <li>Linear equations and systems of equations</li>
+          <li>Functions and limits</li>
         </ul>
       </td>
-      <td align="center">See the list</td>
-      <td align="right">from the first column</td>
+      <td>
+        <ul>
+          <li>Intro to R Studio interface</li>
+          <li>Basic operations and variables in R</li>
+          <li>Reading in and exploring data</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Tue 9/12</td>
+      <td>
+        <ul>
+          <li>Matrices</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Data manipulation and visualization with tidyverse</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Wed 9/13</td>
+      <td>
+        <ul>
+          <li>Derivatives </li>
+          <li>Optimization (finding minima/maxima)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Data manipulation and visualization with tidyverse (continued)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Thu 9/14</td>
+      <td>
+        <ul>
+          <li>Intro to probability (sets, basic rules, conditional probability)</li>
+          <li>Random variables (bernoulli, binomial, uniform, normal; expectation, variance)</li>
+          <li>Probability distributions (pmfs/pdfs))</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Probability and sampling</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Fri 9/15</td>
+      <td>
+        <ul>
+          <li>Integrals</li>
+          <li>Numerical approximation to integrals</li>
+          <li>Monte Carlo integration</li>
+          <li>Flex time to go over anything that was confusing/could use more practice</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Data Extensions and TBD</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
