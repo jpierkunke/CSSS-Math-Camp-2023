@@ -50,9 +50,9 @@ Slides and materials will be linked to in the schedule below as they are made av
 --->
 
 
-### Monday, September 12
+### Monday, September 11
 
-**Concepts**
+**Math Concepts**
 
 - Algebra
 - Linear equations and systems of equations
@@ -60,7 +60,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 <!---[Day 1 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture1.pdf) (click link to download)--->
 
-**Lab**
+**R Lab**
 
 - Intro to R Studio interface
 - Basic operations and variables in R
@@ -69,43 +69,39 @@ Slides and materials will be linked to in the schedule below as they are made av
 <!---[Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/Rlab1.html.zip) (click link to download zip)--->
 
 
-### Tuesday, September 13
+### Tuesday, September 12
 
-**Concepts**
+**Math Concepts**
 
 - Matrices
 
 <!---[Day 2 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture2_Matrices.pdf) (click link to download)--->
 
-**Lab**
+**R Lab**
 
-- Reading in data
-- Intro to data manipulation
-- Working with matrices
+- Data manipulation and visualization with tidyverse
 
 <!---[Day 2 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab2-2022.html.zip) (click link to download zip)--->
 <!---[Day 2 lab R script](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab2-2022.R) (click link to download)--->
 
-### Wednesday, September 14
+### Wednesday, September 13
 
-**Concepts**
+**Math Concepts**
 
 - Derivatives
 - Optimization (finding minima/maxima)
 
 <!---[Day 3 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture3_Part1_Derivatives.pdf) (click link to download)--->
 
-**Lab**
+**R Lab**
 
-- Data manipulation with tidyverse
-- More plotting in R!
-- R Markdown
+- Data manipulation and visualization with tidyverse, continued
 
 <!---[Day 3 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab3_materials.zip) (click link to download zip)--->
 
-### Thursday, September 15
+### Thursday, September 14
 
-**Concepts**
+**Math Concepts**
 
 - Intro to probability (sets, basic rules, conditional probability)
 - Random variables (bernoulli, binomial, uniform, normal; expectation, variance)
@@ -115,9 +111,9 @@ Slides and materials will be linked to in the schedule below as they are made av
 
 [Paper on relative risk vs odds ratio](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/relative-risk-odds-ratio-paper.pdf) (click link to download)--->
 
-**Lab**
+**R Lab**
 
-- Practice with data and tidyverse!
+- Probability and sampling
 
 <!---
 [Day 4 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab4_materials.zip) (click link to download zip)
@@ -125,9 +121,9 @@ Slides and materials will be linked to in the schedule below as they are made av
 [Day 4 lab solutions](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab4_solutions.zip) (click link to download zip)
 --->
 
-### Friday, September 16
+### Friday, September 15
 
-**Concepts**
+**Math Concepts**
 
 - Integrals
 - Numerical approximation to integrals
@@ -138,10 +134,9 @@ Slides and materials will be linked to in the schedule below as they are made av
 [Day 5 slides](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Lecture/Lecture5_Integrals.pdf) (click link to download)
 --->
 
-**Lab**
+**R Lab**
 
-- The birthday problem
-- Simulating from a distribution
+- Extensions and TBD
 
 <!---
 [Day 5 lab materials](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/RLab5_materials.zip) (click link to download zip)
