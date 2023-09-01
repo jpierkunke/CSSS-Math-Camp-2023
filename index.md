@@ -7,9 +7,7 @@ layout: default
 
 Offered at the University of Washington each September since 2014, the [Center for Statistics and the Social Sciences (CSSS)](https://csss.uw.edu/){:target="_blank"} has provided [this math camp](https://csss.uw.edu/academics/math-camp){:target="_blank"} as a one-week review of mathematics and probability.
 
-  **Instructor:** Jess Kunke, PhD Student in Statistics
-  
-  **TA:** Erin Lipman, PhD Student in Statistics
+**Instructors:** Jess Kunke and Erin Lipman, PhD Students in Statistics
 
 **Intended audience:**
 
@@ -24,20 +22,33 @@ Math camp is open to any entering or current UW graduate students and is particu
 * Focus on conceptual foundation, basic tools, and confidence building
 * Provide some introduction to programming/statistics in R
 
-This workshop **does not** assume prior exposure to this material; math skills through high school
-algebra are helpful but can be reviewed. Part of the purpose of this workshop is that students may use lecture notes and web materials to refresh their memories of key concepts and tools as they continue in research and coursework.
+This workshop **does not** assume prior exposure to this material; math skills through high school algebra are helpful but can be reviewed. Part of the purpose of this workshop is that students may use lecture notes and web materials to refresh their memories of key concepts and tools as they continue in research and coursework.
 
 ## Schedule
 
-Math camp will be offered in a hybrid form this year; participants may participate in person or via Zoom. Our **tentative** workshop schedule is as follows:
+Math camp will be offered in a hybrid form this year; participants may participate in person or via Zoom. Our **tentative** workshop schedule is as follows; please check here for updates. We have reserved both PAR 320 and PAR 360 9-4pm each day.
 
-  **9am-12pm, [SAV 260](https://www.washington.edu/maps/#!/sav):**  Review math concepts, do practice problems
+  **9am-12pm, [The Commons, PAR 320](https://www.washington.edu/maps/#!/sav):**  Review math concepts, do practice problems
   
-  **1-3pm, [CSSCR Big Lab (SAV 117)](https://www.washington.edu/maps/#!/sav):** Introduction to programming and statistics in R
+  **12-1pm, [The Commons, PAR 320](https://www.washington.edu/maps/#!/sav):** Lunch/break
   
-  **3-4pm, [CSSCR Big Lab (SAV 117)](https://www.washington.edu/maps/#!/sav):** Office hour if needed
+  **1-2pm, [The Commons, PAR 320](https://www.washington.edu/maps/#!/sav):** Office hour/extra practice
   
-Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess Kunke has contributed to developing the labs since 2021.
+  **2-4pm, [Denny Forum, PAR 360](https://www.washington.edu/maps/#!/sav):** Introduction to R programming language
+  
+Slides and materials will be linked to in the schedule below as they are made available. Much of the course material provided here was first created by Laina Mercer with developments by [Jessica Godwin](https://jlgodwin.github.io/MathCamp){:target="_blank"} and [Peter Gao](https://peteragao.github.io/CSSS-Math-Camp-2021/). Jess and Erin have also contributed to designing the labs.
+
+<!---
+| Math Concepts  | R Lab Content |
+| ------------- | ------------- |
+| - Algebra <br>
+- Linear equations and systems of equations <br>
+- Functions and limits  | - Intro to R Studio interface<br>
+- Using R as calculator<br>
+- Assigning values to variables  |
+| Content Cell  | Content Cell  |
+--->
+
 
 ### Monday, September 12
 
