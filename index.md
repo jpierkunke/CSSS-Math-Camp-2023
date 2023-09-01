@@ -148,7 +148,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <th>Day</th>
       <th>Math Concepts</th>
-      <th>R Lab Concent</th>
+      <th>R Lab Content</th>
     </tr>
     <tr>
       <td>Mon 9/11</td>
