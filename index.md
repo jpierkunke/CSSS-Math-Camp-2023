@@ -41,7 +41,7 @@ Slides and materials will be linked to in the schedule below as they are made av
 <!--- this looks fine in preview but not on the rendered website
 | **Day** | **Math Concepts**  | **R Lab Content** |
 | ------------- | ------------- | ------------- |
-| Mon 9/11 | <ul><li> Algebra </li> <li>Linear equations and systems of equations </li> <li> Functions and limits </li></ul> | <ul><li> Intro to R Studio interface </li> <li> Basic operations and variables in R </li> <li> Reading in and exploring data </li></ul> <br> [Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2022/raw/main/Labs/Rlab1.html.zip) |
+| Mon 9/11 | <ul><li> Algebra </li> <li>Linear equations and systems of equations </li> <li> Functions and limits </li></ul> | <ul><li> Intro to R Studio interface </li> <li> Basic operations and variables in R </li> <li> Reading in and exploring data </li></ul> <br> [Day 1 lab guide](https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Rlab1.html.zip) |
 | Tues 9/12 | <ul><li> Matrices </li></ul>|  <ul><li> Data manipulation and visualization with tidyverse </li></ul> |
 | Wed 9/13 | <ul><li> Derivatives </li> <li> Optimization (finding minima/maxima)  </li></ul> |  <ul><li> Data manipulation and visualization with tidyverse, continued </li></ul> |
 | Thurs 9/14 | <ul><li> Intro to probability (sets, basic rules, conditional probability) </li> <li> Random variables (bernoulli, binomial, uniform, normal; expectation, variance) </li> <li> Probability distributions (pmfs/pdfs)) </li></ul> | <ul><li> Probability and sampling </li></ul> |
