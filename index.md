@@ -152,7 +152,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     </tr>
     <tr>
       <td>Mon 9/11</td>
-      <td>
+      <td style="width: 259px; vertical-align:top">
       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra.pdf">Day 1 Lecture - Part a</a>
         <ul>
           <li>Algebra</li>
@@ -160,7 +160,7 @@ Slides and materials will be linked to in the schedule below as they are made av
           <li>Functions and limits</li>
         </ul>
       </td>
-      <td>
+      < style="width: 259px; vertical-align:top">
         <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Rlab1.html.zip">Lab 1 guide</a>
         <ul>
           <li>Intro to R Studio interface</li>
