@@ -160,12 +160,12 @@ Slides and materials will be linked to in the schedule below as they are made av
         </ul>
       </td>
       <td>
+        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Rlab1.html.zip">Lab 1 guide</a>
         <ul>
           <li>Intro to R Studio interface</li>
           <li>Basic operations and variables in R</li>
           <li>Reading in and exploring data</li>
         </ul>
-        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Rlab1.html.zip">Lab 1 guide</a>
       </td>
     </tr>
     <tr>
