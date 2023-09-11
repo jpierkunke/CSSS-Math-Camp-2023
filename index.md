@@ -153,6 +153,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td>Mon 9/11</td>
       <td>
+      <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra.pdf">Day 1 Lecture - Part a</a>
         <ul>
           <li>Algebra</li>
           <li>Linear equations and systems of equations</li>
