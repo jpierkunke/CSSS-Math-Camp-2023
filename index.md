@@ -71,6 +71,8 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Tue 9/12</td>
       <td style="vertical-align:top">
+        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices.pdf">Day 2 Lecture Slides </a>
+        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice2.pdf">Day 2 Practice Problems</a>
         <ul>
           <li>Matrices</li>
         </ul>
