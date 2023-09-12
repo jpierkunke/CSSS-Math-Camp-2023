@@ -49,7 +49,9 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Mon 9/11</td>
       <td style="vertical-align:top">
       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra.pdf">Day 1 Lecture Slides - Part A</a>
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra_annotated.pdf">Day 1 Annotated Lecture Slides - Part A </a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1b_functions.pdf">Day 1 Lecture Slides - Part B</a>
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1b_functions_annotated.pdf">Day 1 Annotated Lecture Slides - Part B (in progress)</a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice1.pdf">Day 1 Practice Problems</a>
         <ul>
           <li>Algebra</li>
