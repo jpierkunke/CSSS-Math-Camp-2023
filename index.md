@@ -74,7 +74,8 @@ Slides and materials will be linked to in the schedule below as they are made av
         <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices.pdf">Day 2 Lecture Slides </a>
         <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices_annotated.pdf">Day 2 Annotated Lecture Slides (In progress) </a>
         <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice2.pdf">Day 2 Practice Problems</a>
-        <ul>
+       <br><a href="<br><a href="[https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice2.pdf](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/multiplying-a-matrix-by-a-matrix)">Day 2 Practice Problems</a>">Helpful Video: Matrix Multiplication</a> 
+       <ul>
           <li>Matrices</li>
         </ul>
       </td>
