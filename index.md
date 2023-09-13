@@ -48,16 +48,12 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Mon 9/11</td>
       <td style="vertical-align:top">
-      <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra.pdf">Day 1 Lecture Slides - Part A</a>
+      <b>Topic:</b> Algebra and Functions
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra.pdf">Day 1 Lecture Slides - Part A</a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra_annotated.pdf">Day 1 Annotated Lecture Slides - Part A </a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1b_functions.pdf">Day 1 Lecture Slides - Part B</a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1b_functions_annotated.pdf">Day 1 Annotated Lecture Slides - Part B </a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice1.pdf">Day 1 Practice Problems</a>
-        <ul>
-          <li>Algebra</li>
-          <li>Linear equations and systems of equations</li>
-          <li>Functions and limits</li>
-        </ul>
       </td>
       <td style="vertical-align:top">
         <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Rlab1.html.zip">Lab 1 guide</a>
@@ -71,13 +67,11 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Tue 9/12</td>
       <td style="vertical-align:top">
-        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices.pdf">Day 2 Lecture Slides </a>
-        <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices_annotated.pdf">Day 2 Annotated Lecture Slides (In progress) </a>
+       <b>Topic:</b> Matrix Algebra
+        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices.pdf">Day 2 Lecture Slides </a>
+        <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices_annotated.pdf">Day 2 Annotated Lecture Slides </a>
         <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice2.pdf">Day 2 Practice Problems</a>
        <br><a href="https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/multiplying-a-matrix-by-a-matrix)">Helpful Video: Matrix Multiplication</a> 
-       <ul>
-          <li>Matrices</li>
-        </ul>
       </td>
       <td style="vertical-align:top">
         <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab2_files.zip">Lab 2 files</a><br>
@@ -93,13 +87,11 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Wed 9/13</td>
       <td style="vertical-align:top">
-       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
+       <b>Topic:</b> Differential Calculus (Derivatives)
+       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
+       <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides </a>
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
-        <ul>
-          <li>Derivatives </li>
-          <li>Optimization (finding minima/maxima)</li>
-        </ul>
-      </td>
+       </td>
       <td style="vertical-align:top">
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab3_files.zip">Lab 3 files</a>
         <ul>
@@ -113,34 +105,25 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Thu 9/14</td>
       <td style="vertical-align:top">
-        <ul>
-          <li>Intro to probability (sets, basic rules, conditional probability)</li>
-          <li>Random variables (bernoulli, binomial, uniform, normal; expectation, variance)</li>
-          <li>Probability distributions (pmfs/pdfs))</li>
-        </ul>
+      <b>Topic:</b> Integral Calculus
       </td>
       <td style="vertical-align:top">
         <ul>
-          <li>Sampling from distributions</li>
           <li>Writing your own functions</li>
-          <li>A quick intro to R Markdown</li>
+          <li>For-loops, vectorization, and code efficiency</li>
+          <li>Benchmarking (timing) your code</li>
         </ul>
       </td>
     </tr>
     <tr>
       <td style="vertical-align:top">Fri 9/15</td>
       <td style="vertical-align:top">
-        <ul>
-          <li>Integrals</li>
-          <li>Numerical approximation to integrals</li>
-          <li>Monte Carlo integration</li>
-          <li>Flex time to go over anything that was confusing/could use more practice</li>
-        </ul>
+      <b>Topic:</b> Intro to Probability, Random Variables, Probability Distributions
       </td>
       <td style="vertical-align:top">
         <ul>
-          <li>For-loops, vectorization, and code efficiency</li>
-          <li>Benchmarking (timing) your code</li>
+          <li>Sampling from distributions</li>
+          <li>A quick intro to R Markdown</li>
         </ul>
       </td>
     </tr>
