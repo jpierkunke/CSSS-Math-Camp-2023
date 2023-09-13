@@ -48,7 +48,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Mon 9/11</td>
       <td style="vertical-align:top">
-      Topic: Algebra and Functions
+      <b>Topic:</b> Algebra and Functions
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra.pdf">Day 1 Lecture Slides - Part A</a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1a_algebra_annotated.pdf">Day 1 Annotated Lecture Slides - Part A </a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture1b_functions.pdf">Day 1 Lecture Slides - Part B</a>
@@ -67,7 +67,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Tue 9/12</td>
       <td style="vertical-align:top">
-       Topic: Matrix Algebra
+       <b>Topic:</b> Matrix Algebra
         <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices.pdf">Day 2 Lecture Slides </a>
         <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices_annotated.pdf">Day 2 Annotated Lecture Slides </a>
         <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice2.pdf">Day 2 Practice Problems</a>
@@ -87,7 +87,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Wed 9/13</td>
       <td style="vertical-align:top">
-       Topic: Differential Calculus (Derivatives)
+       <b>Topic:</b> Differential Calculus (Derivatives)
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
        <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides </a>
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
@@ -105,7 +105,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Thu 9/14</td>
       <td style="vertical-align:top">
-      Topic: Integral Calculus
+      <b>Topic:</b> Integral Calculus
       </td>
       <td style="vertical-align:top">
         <ul>
@@ -118,7 +118,7 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Fri 9/15</td>
       <td style="vertical-align:top">
-      Topic: Intro to Probability, Random Variables, Probability Distributions
+      <b>Topic:</b> Intro to Probability, Random Variables, Probability Distributions
       </td>
       <td style="vertical-align:top">
         <ul>
