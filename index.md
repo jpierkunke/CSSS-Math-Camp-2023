@@ -72,7 +72,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Tue 9/12</td>
       <td style="vertical-align:top">
         <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices.pdf">Day 2 Lecture Slides </a>
-        <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices_annotated.pdf">Day 2 Annotated Lecture Slides (In progress) </a>
+        <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture2_matrices_annotated.pdf">Day 2 Annotated Lecture Slides </a>
         <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice2.pdf">Day 2 Practice Problems</a>
        <br><a href="https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/v/multiplying-a-matrix-by-a-matrix)">Helpful Video: Matrix Multiplication</a> 
        <ul>
@@ -94,6 +94,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Wed 9/13</td>
       <td style="vertical-align:top">
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
+       <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides </a>
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
         <ul>
           <li>Derivatives </li>
