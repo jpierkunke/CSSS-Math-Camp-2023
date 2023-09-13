@@ -84,6 +84,9 @@ Slides and materials will be linked to in the schedule below as they are made av
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab2_script_class.R.zip">Lab 2 class script</a>
         <ul>
           <li>Data manipulation and visualization with tidyverse</li>
+          <li>The concept of tidy data</li>
+          <li>Filter, select, mutate, group_by, summarize</li>
+          <li>Flow from one operation to the next with pipes</li>
         </ul>
       </td>
     </tr>
@@ -99,6 +102,9 @@ Slides and materials will be linked to in the schedule below as they are made av
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab3_files.zip">Lab 3 files</a>
         <ul>
           <li>Data manipulation and visualization with tidyverse (continued)</li>
+          <li>Making and using a data cleaning script</li>
+          <li>Pivoting to wide and long format</li>
+          <li>Plotting with ggplot2, including facet_wrap and more</li>
         </ul>
       </td>
     </tr>
