@@ -93,6 +93,8 @@ Slides and materials will be linked to in the schedule below as they are made av
     <tr>
       <td style="vertical-align:top">Wed 9/13</td>
       <td style="vertical-align:top">
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
+       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
         <ul>
           <li>Derivatives </li>
           <li>Optimization (finding minima/maxima)</li>
