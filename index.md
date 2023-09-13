@@ -119,7 +119,9 @@ Slides and materials will be linked to in the schedule below as they are made av
       </td>
       <td style="vertical-align:top">
         <ul>
-          <li>Probability and sampling</li>
+          <li>Sampling from distributions</li>
+          <li>Writing your own functions</li>
+          <li>A quick intro to R Markdown</li>
         </ul>
       </td>
     </tr>
@@ -135,7 +137,8 @@ Slides and materials will be linked to in the schedule below as they are made av
       </td>
       <td style="vertical-align:top">
         <ul>
-          <li>Data Extensions and TBD</li>
+          <li>For-loops, vectorization, and code efficiency</li>
+          <li>Benchmarking (timing) your code</li>
         </ul>
       </td>
     </tr>
