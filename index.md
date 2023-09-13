@@ -115,9 +115,10 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Thu 9/14</td>
       <td style="vertical-align:top">
         <ul>
-          <li>Intro to probability (sets, basic rules, conditional probability)</li>
-          <li>Random variables (bernoulli, binomial, uniform, normal; expectation, variance)</li>
-          <li>Probability distributions (pmfs/pdfs))</li>
+          <li>Integrals</li>
+          <li>Numerical approximation to integrals</li>
+          <li>Monte Carlo integration</li>
+          <li>Flex time to go over anything that was confusing/could use more practice</li>
         </ul>
       </td>
       <td style="vertical-align:top">
@@ -132,10 +133,9 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Fri 9/15</td>
       <td style="vertical-align:top">
         <ul>
-          <li>Integrals</li>
-          <li>Numerical approximation to integrals</li>
-          <li>Monte Carlo integration</li>
-          <li>Flex time to go over anything that was confusing/could use more practice</li>
+          <li>Intro to probability (sets, basic rules, conditional probability)</li>
+          <li>Random variables (bernoulli, binomial, uniform, normal; expectation, variance)</li>
+          <li>Probability distributions (pmfs/pdfs))</li>
         </ul>
       </td>
       <td style="vertical-align:top">
