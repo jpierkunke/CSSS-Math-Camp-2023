@@ -80,7 +80,7 @@ Slides and materials will be linked to in the schedule below as they are made av
         </ul>
       </td>
       <td style="vertical-align:top">
-        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab2_files.zip">Lab 2 files</a>
+        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab2_files.zip">Lab 2 files</a><br>
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab2_script_class.R.zip">Lab 2 class script</a>
         <ul>
           <li>Data manipulation and visualization with tidyverse</li>
