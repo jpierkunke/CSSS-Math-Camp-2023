@@ -1,0 +1,496 @@
+\documentclass{beamer}
+%\documentclass{beamer}
+\usetheme{umbc2}  % name of theme substututed here
+\usepackage{hyperref}
+\usepackage{pause}
+
+\usepackage{}
+
+\makeatletter
+\setbeamertemplate{footline}
+{
+  \leavevmode%
+  \hbox{%
+  
+    \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{title in head/foot}%
+    \usebeamerfont{title in head/foot}\insertshorttitle
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,center]{author in head/foot}%
+    \usebeamerfont{author in head/foot}\insertshortauthor~~\beamer@ifempty{\insertshortinstitute}{}{(\insertshortinstitute)}
+  \end{beamercolorbox}%
+  \begin{beamercolorbox}[wd=.333333\paperwidth,ht=2.25ex,dp=1ex,right]{date in head/foot}%
+    \usebeamerfont{date in head/foot}\insertshortdate{}\hspace*{2em}
+    \insertframenumber\hspace*{2ex} 
+  \end{beamercolorbox}}%
+  \vskip0pt%
+}
+\makeatother
+
+% You can set the default options using \SweaveOpts
+
+
+% default options for includegraphics used when "fig=true"
+\setkeys{Gin}{keepaspectratio=true, height=0.85\textheight}
+
+% Get rid of the extra navigation symbols that beamer puts in your slides
+\beamertemplatenavigationsymbolsempty
+
+
+\begin{document}
+\title[CSSS Math Camp - Lecture 4]{CSSS Math Camp Lecture 4}
+\subtitle{Integral Calculus \\ \small{Authored by: Laina Mercer, PhD}}
+\author{Erin Lipman and Jess Kunke}
+\institute[UW]{Department of Statistics}
+\date{September 14, 2023}
+
+\begin{frame}[plain] 
+  \titlepage
+\end{frame}
+
+
+
+\begin{frame}{Lecture 4: Integral Calculus}
+
+\begin{itemize}
+\item Motivation for Integrals
+\item Definition of integration
+\item Rules of Integration
+\end{itemize}
+
+\end{frame}
+
+
+
+\begin{frame}{Differentiation Example}{distance, velocity, acceleration}
+Let's take $d$=distance, $v$=velocity, $a$=acceleration.  You may remember from physics, the distance traveled after time $t$
+\[
+d(t)=\frac{a}{2}t^2
+\]
+%\pause
+The velocity at any time $t$ is the instantaneous rate of change of the distance, $v(t)=d'(t)$:
+
+\[
+v(t)=2\cdot \frac{a}{2}t=at
+\]
+%\pause
+The acceleration at any time $t$ is the instantaneous rate of change of the velocity, $a(t)=v'(t)=d''(t)$:
+\[
+a(t)=a
+\]
+\end{frame}
+
+\begin{frame}{Distance}
+\begin{figure}[h!]\centering
+    \includegraphics[width=1.0\textwidth]{distance.pdf}
+    \caption{Distance over time, when $a(t)=2$, $v(t)=2t$, and $d(t)=t^2$.}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Velocity}
+\begin{figure}[h!]\centering
+    \includegraphics[width=1.0\textwidth]{velocity.pdf}
+    \caption{Velocity over time, when $a(t)=2$, $v(t)=2t$, and $d(t)=t^2$.}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Acceleration}
+%$$a(t)=2$$
+\begin{figure}[h!]\centering
+    \includegraphics[width=1.0\textwidth]{acceleration.pdf}
+    \caption{Acceleration over time, when $a(t)=2$, $v(t)=2t$, and $d(t)=t^2$.}
+\end{figure}
+\end{frame}
+
+
+
+
+
+\begin{frame}{What is the velocity at t=3 when a=2?}
+%\pause
+We know that $v(t)=2t$, so clearly $$v(3)=2\cdot 3=6.$$
+
+%\pause 
+However we can also find the velocity, by looking at the area under the acceleration curve from $t=0$ to $t=3$.  This would just be the area of a rectangle (\texttt{base X height}), $$(3-0)\cdot 2=3\cdot2=6.$$
+
+\end{frame}
+
+\begin{frame}{What is the velocity at t=3 when a=2?}
+
+\begin{figure}[h!]\centering
+    \includegraphics[width=1.0\textwidth]{acc_veloc.pdf}
+   % \caption{Distance over time, when $a=2$.}
+\end{figure}
+\end{frame}
+
+
+\begin{frame}{What is the distance at t=3 when a=2?}
+
+We know that $ d(t)=2/2t^2=t^2$, so clearly  $$d(3)=3^2=9.$$  
+
+%\pause 
+However we can also find the distance, by looking at the area under the velocity curve from $t=0$ to $t=3$.  This would just be the area of a triangle ($1/2 $\texttt{ X base X height}), $$1/2\cdot (3-0)\cdot 6=3/2\cdot 6 =18/2=9.$$
+
+\end{frame}
+
+
+\begin{frame}{What is the distance at t=3 when a=2?}
+\begin{figure}[h!]\centering
+    \includegraphics[width=1.0\textwidth]{veloc_dist.pdf}
+   % \caption{Distance over time, when $a=2$.}
+\end{figure}
+\end{frame}
+
+
+\begin{frame}{Motivation for Integrals in Statistics}
+\begin{figure}[h!]\centering
+    \includegraphics[width=0.95\textwidth]{normal.pdf}
+    \caption{Standard Normal Density (N(0,1)).  Approximately 68\% of the probability lies within 1 standard deviation and 95\% within 2 standard deviations. The area under the whole curve (from $-\infty$ to $\infty$) is 1.}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Motivation for Integrals in Statistics}
+Integral caclulus...
+\begin{itemize}
+\item is a tool for computing areas under curves.
+%\item can be used to compute percentile rankings.
+\item is used to compute probabilities of events.
+\item will be needed to compute the expected values and variance of probability distributions.
+\item is heavily used in statistical theory!
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Motivation for Integrals in Statistics}{What if we wanted to find the area under the curve from -2 to -0.5?}
+\begin{figure}[h!]\centering
+    \includegraphics[width=0.95\textwidth]{normal_example.pdf}
+  %  \caption{Standard Normal Density (N(0,1)).  Approximately 68\% of the probability lies within 1 standard deviation and 95\% within 2 standard deviations.}
+\end{figure}
+\end{frame}
+
+
+\begin{frame}{Motivation for Integrals in Statistics}{We could approximate with rectangles or trapezoids.  Narrower rectangles would give better approximations.}
+\begin{figure}[h!]\centering
+    \includegraphics[width=0.95\textwidth]{normal_boxes.pdf}
+  %  \caption{Standard Normal Density (N(0,1)).  Approximately 68\% of the probability lies within 1 standard deviation and 95\% within 2 standard deviations.}
+\end{figure}
+\end{frame}
+
+\begin{frame}{Integration}
+The area under a curve is written:
+\[
+\int\limits_a^bf(x)dx
+\]
+
+This formula is called the \textit{definite integral} of $f(x)$ from $a$ to $b$.  
+
+\vspace{3mm}
+%Here $a$ and $b$ are our endpoints of interest.  There is a direct relationship (via the Fundamental Theorem of Calculus) with finding a derivative.  You can think of the integral as the `opposite' of the derivative.
+Here $a$ and $b$ are our endpoints of interest.   You can think of the integral as the `opposite' of the derivative.
+
+\end{frame}
+
+\begin{frame}{Integration}
+
+More specifically,
+\[
+\int\limits_a^bf(x)dx=F(b)-F(a) \textrm{ where } F'(x)=f(x)
+\]
+
+$F(x)$ is called the \textit{indefinite integral} of $f(x)$. The important relationships between derivatives and integrals are:
+
+\[
+F'(x)=f(x) \;\;\textrm{        \&      } \int f(x)dx=F(x)
+\]
+
+\end{frame}
+
+\begin{frame}{What is an integral?}
+You can think of integrating as looking at a derivative and trying to find the original function.
+\vspace{3mm}
+
+%\pause
+\begin{itemize}
+\item $\int 3 dx$.
+What function has a derivate equal to 3? %\pause $3x$. \pause
+\item $\int 2x dx$. %\pause 
+What function has a derivate equal to $2x$? %\pause $x^2$. \pause
+\item $\int e^x dx$. %\pause 
+What function has a derivate equal to $e^x$? %\pause $e^x$.
+\end{itemize}
+\vspace{2mm}
+In practice, you don't have to search for the right function. We have handy shortcuts (rules).
+
+\end{frame}
+
+\begin{frame}{Integration Rules}{Integrating a Constant}
+\[
+\int c dx=cx
+\]
+%\pause
+Examples:
+\begin{itemize}
+\item $\int 1dx=$%\pause x$ \pause
+\vspace{2mm}
+\item $\int 6dx=$%\pause 6x$ \pause
+\vspace{2mm}
+\item $\int ydx=$%\pause yx$
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Integration Rules}{Integrating a Power of $x$}
+\[
+\int x^n dx=\frac{1}{n+1}x^{n+1}
+\] %\pause
+Examples:
+\begin{itemize}
+\item $\int xdx=$%\pause \frac{1}{2}x^2$ \pause
+%\item $\int 4x^2dx=\pause 4\left( \frac{1}{3}x^3 \right)  \pause = \frac{4}{3}x^3  $ \pause
+\vspace{2mm}
+\item $\int \frac{1}{x^2}dx=$%\pause \int x^{-2} dx=\pause \frac{1}{-1}x^{-1}\pause= -\frac{1}{x}$ \pause
+%\item $\int c ydy=$%\pause \mu \left( \frac{1}{2}y^2 \right)  \pause = \frac{\mu}{2}y^2  $ 
+\end{itemize}
+\end{frame}
+
+
+
+\begin{frame}{Integration Rules}{Integrating an Exponential and Logarithmic Functions}
+Exponential:
+\[
+\int e^x dx=e^x
+\]
+\vspace{3mm}
+
+(Natural) Logarithm:
+\[
+\int \frac{1}{x} dx=log(x)
+\]
+
+
+\end{frame}
+
+
+
+%\begin{frame}{Integration Rules}{Basic Trigonometric Functions}
+%Remember, $\frac{d}{dx}cos(x)=-sin(x)$, thus
+%\[
+%\int sin(x) dx=-cos(x)
+%\]
+%\vspace{3mm}
+
+%and $\frac{d}{dx}sin(x)=cos(x)$, thus
+%\[
+%\int cos(x) dx=sin(x).
+%\]
+%\end{frame}
+
+\begin{frame}{Integration Rules}{Multiple of a Function}
+\[
+\int af(x)dx=a\cdot \int f(x)dx=aF(x)
+\] %\pause
+Examples:
+\begin{itemize}
+\item $\int 4x^2dx= $%4\int x^2dx=4\left( \frac{1}{3}x^3 \right)  = \frac{4}{3}x^3  $ 
+\vspace{2mm}
+\item $\int \frac{3}{x^2}dx=$% 3\int\frac{1}{x^2}dx=3\int x^{-2} dx= \frac{3}{-1}x^{-1}= -\frac{3}{x}$ %pause
+\vspace{2mm}
+\item $\int \mu ydy= $%\mu \int ydy=\mu \left( \frac{1}{2}y^2 \right) = \frac{\mu}{2}y^2  $ 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Integration Rules}{Sums of Functions}
+\[
+\int \left(f(x)+g(x) \right)dx=\int f(x)dx+\int g(x)dx=F(x)+G(x)
+\] %\pause
+Examples:
+\begin{itemize}
+\item $\int \left(4x+3x^2\right)dx$%=\int 4x dx+ \int 3x^2dx = 4\int x dx + 3\int
+ %x^2dx= 4\cdot\frac{1}{2}x^2+3\cdot \frac{1}{3} x^3=\pause 2x^2+x^3  $ 
+\vspace{10mm}
+\item $\int \left(e^x-\frac{2}{x}\right)dx=$%\int e^xdx-2\int \frac{1}{x}dx= %e^x-2log(x)$ 
+\end{itemize}
+\end{frame}
+
+
+\begin{frame}{Integration Rules}{$u$-substitution}
+Sometimes the function we are integrating is similar to a simpler function with an easy derivative.\\
+\vspace{3mm}
+%\pause
+
+For example, $\int \frac{1}{1-x}dx$ is similar to $\int \frac{1}{x}dx$ which we know is $log(x)$.  Similar to the chain rule, we can think about functions within functions.
+
+\vspace{3mm}
+\pause
+Let's set $u=1-x$.  If we differentiate the left with respect to $u$ and the right with respect to $x$ we have $du=-1dx$.  Solving for $dx$ we have $dx=-1du$.  Now we can substitute these values into our original integral.
+
+\end{frame}
+
+\begin{frame}{Integration Rules}{$u$-substitution continued}
+Example: Find $\int \frac{1}{1-x}dx$ using the substitution $u=1-x$ (and so $du = -dx$).
+\vspace{2mm}
+
+First substitute $u=1-x$ and $du=-dx$ into the integral:
+\[
+\int \frac{1}{1-x}dx=\int\frac{1}{u}\cdot (-1)du=-1\int \frac{1}{u}du
+\]
+\pause
+Now let's take the integral with respect to $u$:
+\[
+-1\int \frac{1}{u}du=-log(u)
+\]
+\pause
+Then we can plug in the value for $u=1-x$:
+\[
+-log(u)=-log(1-x)
+\]
+\end{frame}
+
+\begin{frame}{Integration Rules}{$u$-substitution continued}
+Example: 
+\[
+\int (2x+4)^3dx\] %\pause
+%We can take $u=2x+4$.  Then $du=2dx$ or $\frac{1}{2}du=dx$.  
+\vspace{50mm}
+
+%When we make the substitutions in our integral we have:
+%\[
+%\int (2x+4)^3dx=\int u^3\cdot \frac{1}{2}du=\frac{1}{2}\int u^3du
+%\] 
+%Now we have an integral we can easily compute 
+%\[\frac{1}{2}\int u^3du=\frac{1}{2}\cdot \frac{1}{4}u^4=\frac{1}{8}u^4\]
+% and then we just need to substitute back in for the functions of $x$.
+% \[
+%\int (2x+4)^3dx=\frac{1}{2}\int u^3du=\frac{1}{8}u^4=\frac{1}{8}(2x+4)^4
+%\]
+\end{frame}
+
+
+\begin{frame}{Finding Definite Integrals}
+Often we will be interested in knowing the exact area under the curve $f(x)$, not just the function $F(x)$.
+\[
+\int\limits_a^bf(x)dx=F(x)|_a^b=F(b)-F(a)
+\]
+
+
+
+Examples:
+\begin{itemize}
+\item$ \int\limits_{0}^1x^2dx=$%\pause \frac{1}{3}x^3|_0^1=\pause \frac{1}{3}1^3-\frac{1}{3}0^3=\frac{1}{3}$\pause
+\vspace{2mm}
+\item$ \int\limits_{0}^{\infty}e^{-x}dx=$%\pause -e^{-x}|_0^{\infty}=\pause -e^{-\infty}--e^0=-\frac{1}{e^{\infty}}+e^0=1$
+\vspace{2mm}
+\item$ \int\limits_{2}^{8}\frac{1}{x}dx=$%\pause log(x)|_2^{8}=\pause log(8)-log(2)=log\left( \frac{8}{2}\right)=log(4)$
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}{Integration Example}{distance, velocity, acceleration}
+
+Back to our original example, with $a=2$.  The velocity at time $t=3$ is the definite integral of of the acceleration, $v(3)=\int\limits_0^{3} a(t)dt$:
+
+\[
+v(3)=\int\limits_0^{3}  2 dt=2t|_0^3=2\cdot 3-2\cdot 0=(3-0)\cdot 2=6
+\]
+\pause
+Similarly, the distance at time $t=3$ is the definite integral of of the velocity, $d(3)=\int\limits_0^{3} v(t)dt$:
+\[
+d(3)=\int\limits_0^{3} v(t)dt=\int\limits_0^{3} 2tdt=t^2|_0^{3}=3^2-0^2=9
+\]
+
+\end{frame}
+
+
+\begin{frame}{Example}
+\[
+\int\limits_0^3 e^{x/3}dx %\pause
+\]
+%We could take $u=x/3$.  Then $du=1/3dx$ and $3du=dx$. 
+\vspace{60mm}
+
+%When we substitute in for $u$ and $dx$ it is important to note that we must also %substitute in for our limits of integration.  The lower value $u=0/3=0$ and the upper %value would be $u=3/3=1$.
+%\[
+%\int\limits_0^3 e^{x/3}dx=\int\limits_0^1 e^{u}\cdot 3du=3\int\limits_0^1 e^{u}du=3e^u|_0^1=3(e^1-e^0)=3(e-1)
+%\]
+\end{frame}
+
+%
+%\begin{frame}{Integration by Parts}
+%
+%For complicated functions it is often handy to decompose the function into two parts.
+% \[
+% \int f(x)dx\pause= \int g(x)\cdot h'(x)dx \pause =g(x)h(x)-\int h(x)\cdot g'(x)dx\pause
+% \]
+% Example:
+% \[
+% \int xe^xdx
+% \]
+% \pause
+%$$g(x) = x, \hspace{.3in} h^{'}(x) = e^x dx$$\pause
+%$$g^{'}(x) = 1, \hspace{.3in} h(x) = e^x $$ \pause
+%\[
+%\int xe^xdx=x\cdot e^x - \int e^x \cdot 1 dx\pause=xe^x-e^x=e^x(x-1)
+%\]
+%\end{frame}
+%
+%\begin{frame}{Integration by Parts}{Beta Distribution Example}
+%Find the area under the curve.
+% \[
+% \int_{0.5}^1 x(1-x)^2 dx
+% \] \pause
+%$$g(x) = x, \hspace{.3in} h^{'}(x) = (1-x)^{2}$$ \pause
+%$$g^{'}(x) = 1, \hspace{.3in} \pause h(x) =\int (1-x)^{2} dx$$ \pause
+%
+%Let $u = 1-x$.  Then $du = -1 \cdot dx$.  We can write the integral
+%$$h(x) = \int (1-x)^{2} dx = \int u^{2} dx = \int u^{2} (-1) du = -1 \cdot \frac{u^{3}}{3} = \frac{-1}{3} \cdot (1-x)^{3}$$
+%
+%\end{frame}
+%
+%
+%
+%\begin{frame}{Integration by Parts}{Beta Distribution Example}
+%
+%Now we have all the pieces we need to apply the integration by parts formula.
+%$$g(x) = x, \hspace{.3in} h^{'}(x) = (1-x)^{2}$$
+%$$g^{'}(x) = 1, \hspace{.3in} h(x) = \frac{-1}{3}  (1-x)^{3}$$ 
+%\pause
+%\begin{eqnarray*}
+% \int_{0.5}^1 x(1-x)^2 dx &=  \left. \left[ \frac{-1}{3} (1-x)^{3} \cdot x - \int \frac{-1}{3} (1-x)^{3} \cdot 1 dx \right] \right|_{0.5}^{1} \\
+% &=  \left. \left[ \frac{-1}{3} x(1-x)^{3}  + \frac{1}{3} \int (1-x)^{3}  dx \right] \right|_{0.5}^{1} \\
+% \end{eqnarray*}
+%\end{frame}
+%
+%
+%\begin{frame}{Integration by Parts}{Beta Distribution Example}
+%\begin{eqnarray*}
+% \int_{0.5}^1 x(1-x)^2 dx &=  \left. \left[ \frac{-1}{3} (1-x)^{3} \cdot x - \int \frac{-1}{3} (1-x)^{3} \cdot 1 dx \right] \right|_{0.5}^{1} \\
+% &=  \left. \left[ \frac{-1}{3} x(1-x)^{3}  + \frac{1}{3} \int (1-x)^{3}  dx \right] \right|_{0.5}^{1} \\
+% \end{eqnarray*}\pause
+%To do the integral in the last term:
+%$ \int (1-x)^{3} dx$
+%Let $u = 1-x$.  Then $du = -1 \cdot dx$.  We can write the integral
+%$$\int (1-x)^{3} dx = \int u^{3} dx = \int u^{3} (-1) du = -1 \cdot \frac{u^{4}}{4} = \frac{-1}{4} \cdot (1-x)^{4}$$
+%\end{frame}
+%
+%
+%\begin{frame}{Integration by Parts}{Beta Distribution Example}
+%Putting this back into our equation
+%\begin{eqnarray*}
+% \int_{0.5}^1 x(1-x)^2 dx  &=  \left. \left[ \frac{-1}{3} x(1-x)^{3}  + \frac{1}{3} \int (1-x)^{3}  dx \right] \right|_{0.5}^{1} \\ \pause
+% &=  \left. \left[ \frac{-1}{3} x(1-x)^{3}  + \frac{1}{3} \left(  \frac{-1}{4}  (1-x)^{4} \right) \right] \right|_{0.5}^{1} \\ \pause
+% &=  \left. \left[ \frac{-1}{3} x(1-x)^{3}  - \frac{1}{12} (1-x)^{4} \right] \right|_{0.5}^{1} \\ \pause
+% &=  [ 0 - 0 ]  - \left[ \frac{-1}{3} (0.5)(1-0.5)^{3}  - \frac{1}{12} (1-0.5)^{4} \right]  \\ \pause
+%&=  \frac{1}{3} 0.5^{4}  + \frac{1}{12} 0.5^{4} = \frac{5}{192}
+% \end{eqnarray*}
+%\end{frame}
+%
+
+
+\begin{frame}{The End}
+Questions?
+
+\end{frame}
+
+
+
+\end{document} % don't forget this
