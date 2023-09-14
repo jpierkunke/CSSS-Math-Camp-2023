@@ -112,9 +112,10 @@ Slides and materials will be linked to in the schedule below as they are made av
       </td>
       <td style="vertical-align:top">
         <ul>
-          <li>Writing your own functions</li>
+          <li>Matrices in R</li>
           <li>For-loops, vectorization, and code efficiency</li>
           <li>Benchmarking (timing) your code</li>
+          <li>Writing your own functions</li>
         </ul>
       </td>
     </tr>
