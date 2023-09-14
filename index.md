@@ -89,7 +89,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">
        <b>Topic:</b> Differential Calculus (Derivatives)
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
-       <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides </a>
+       <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides (in progress) </a>
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
        </td>
       <td style="vertical-align:top">
@@ -106,6 +106,9 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Thu 9/14</td>
       <td style="vertical-align:top">
       <b>Topic:</b> Integral Calculus
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture4_integrals.pdf">Day 4 Lecture Slides </a>
+       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice4.pdf">Day 4 Practice Problems</a>
+       </td>
       </td>
       <td style="vertical-align:top">
         <ul>
