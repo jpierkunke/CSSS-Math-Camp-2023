@@ -93,7 +93,8 @@ Slides and materials will be linked to in the schedule below as they are made av
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
        </td>
       <td style="vertical-align:top">
-       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab3_files.zip">Lab 3 files</a>
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/Lab3_files.zip">Lab 3 files</a> <br>
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/blob/main/Labs/RLab3_class_and_solns.zip">Lab 3 class script and Your Turn solutions</a>
         <ul>
           <li>Data manipulation and visualization with tidyverse (continued)</li>
           <li>Making and using a data cleaning script</li>
@@ -111,6 +112,7 @@ Slides and materials will be linked to in the schedule below as they are made av
        </td>
       </td>
       <td style="vertical-align:top">
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/blob/main/Labs/RLab4.R.zip">Lab 4 script</a>
         <ul>
           <li>Matrices in R</li>
           <li>For-loops, vectorization, and code efficiency</li>
