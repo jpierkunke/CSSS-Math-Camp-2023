@@ -113,6 +113,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       </td>
       <td style="vertical-align:top">
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab4.R.zip">Lab 4 script</a>
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab4_class.R.zip">Lab 4 class script</a>
         <ul>
           <li>Matrices in R</li>
           <li>For-loops, vectorization, and code efficiency</li>
@@ -127,6 +128,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <b>Topic:</b> Intro to Probability, Random Variables, Probability Distributions
       </td>
       <td style="vertical-align:top">
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab5_files.zip">Lab 5 files</a>
         <ul>
           <li>Sampling from distributions</li>
           <li>A quick intro to R Markdown</li>
