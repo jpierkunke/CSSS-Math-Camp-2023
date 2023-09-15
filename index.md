@@ -109,7 +109,9 @@ Slides and materials will be linked to in the schedule below as they are made av
       <b>Topic:</b> Integral Calculus
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture4_integrals.pdf">Day 4 Lecture Slides </a>
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture4_integrals_annotated.pdf">Day 4 Annotated Lecture Slides </a>
-       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice4.pdf">Day 4 Practice Problems</a>
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice4.pdf">Day 4 Practice Problems</a>
+      <br><a href="https://www.khanacademy.org/math/ap-calculus-ab/ab-integration-new/ab-6-9/v/u-substitution-definite-integrals">Helpful Video: U-Substitution (definite integrals)</a> 
+      <br><a href="https://www.khanacademy.org/math/ap-calculus-bc/bc-integration-new/bc-6-11/v/deriving-integration-by-parts-formula">Helpful Video: Integration by Parts)</a>
        </td>
       </td>
       <td style="vertical-align:top">
