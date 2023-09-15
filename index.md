@@ -89,7 +89,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">
        <b>Topic:</b> Differential Calculus (Derivatives)
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives.pdf">Day 3 Lecture Slides </a>
-       <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides (in progress) </a>
+       <br> <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture3_derivatives_annotated.pdf">Day 3 Annotated Lecture Slides </a>
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice3.pdf">Day 3 Practice Problems</a>
        </td>
       <td style="vertical-align:top">
@@ -108,6 +108,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">
       <b>Topic:</b> Integral Calculus
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture4_integrals.pdf">Day 4 Lecture Slides </a>
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture4_integrals_annotated.pdf">Day 4 Annotated Lecture Slides </a>
        <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Practice/practice4.pdf">Day 4 Practice Problems</a>
        </td>
       </td>
@@ -126,6 +127,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">Fri 9/15</td>
       <td style="vertical-align:top">
       <b>Topic:</b> Intro to Probability, Random Variables, Probability Distributions
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture5_probability.pdf">Day 5 Lecture Slides </a>
       </td>
       <td style="vertical-align:top">
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab5_files.zip">Lab 5 files</a>
