@@ -132,7 +132,8 @@ Slides and materials will be linked to in the schedule below as they are made av
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture5_probability.pdf">Day 5 Lecture Slides </a>
       </td>
       <td style="vertical-align:top">
-       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab5_files.zip">Lab 5 files</a>
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab5_files.zip">Lab 5 files</a><br>
+       <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab5.R.zip">Lab 5 class script</a>
         <ul>
           <li>Sampling from distributions</li>
           <li>A quick intro to R Markdown</li>
