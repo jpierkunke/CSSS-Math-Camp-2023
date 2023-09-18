@@ -130,6 +130,7 @@ Slides and materials will be linked to in the schedule below as they are made av
       <td style="vertical-align:top">
       <b>Topic:</b> Intro to Probability, Random Variables, Probability Distributions
       <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture5_probability.pdf">Day 5 Lecture Slides </a>
+      <br><a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Lecture/Lecture5_probability_annotated.pdf">Day 5 Annotated Lecture Slides </a>
       </td>
       <td style="vertical-align:top">
        <a href="https://github.com/jpierkunke/CSSS-Math-Camp-2023/raw/main/Labs/RLab5_files.zip">Lab 5 files</a><br>
